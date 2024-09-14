@@ -57,7 +57,7 @@ async function onSubmit(form) {
           </AlertDescription>
         </Alert>
         <Button class="w-full">
-          Login
+          登录
         </Button>
       </AutoForm>
     </CardContent>

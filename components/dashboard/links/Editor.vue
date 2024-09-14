@@ -135,7 +135,7 @@ const { previewMode } = useRuntimeConfig().public
           variant="outline"
           @click="randomSlug"
         >
-          Create Link
+          创建链接
         </Button>
       </slot>
     </DialogTrigger>
@@ -185,11 +185,11 @@ const { previewMode } = useRuntimeConfig().public
               variant="secondary"
               class="mt-2 sm:mt-0"
             >
-              Close
+              关闭
             </Button>
           </DialogClose>
           <Button type="submit">
-            Save
+            保存
           </Button>
         </DialogFooter>
       </AutoForm>
